@@ -1,3 +1,5 @@
+<img width="950" alt="User-table" src="https://github.com/SaumyaaPrajapat/Color-Picker/assets/103128269/17d683c4-ca65-4c1c-8082-6a28857095de">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
